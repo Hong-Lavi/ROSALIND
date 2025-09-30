@@ -37,3 +37,4 @@ result=CountingDNA(string)
 print(result["A"],result["C"],result["G"],result["T"])
 
 
+
