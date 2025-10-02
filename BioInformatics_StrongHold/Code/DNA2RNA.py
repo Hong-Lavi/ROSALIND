@@ -6,3 +6,6 @@ def DNA2RNA(string):
 result=DNA2RNA(string)
 with open("BioInformatics_StrongHold/Output/DNA2RNA_Output.txt", "w") as file:
     file.write(result)
+
+
+
